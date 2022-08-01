@@ -1,0 +1,36 @@
+.wrapper{
+    padding: 0 40px;
+  }
+.content{
+    margin: 3rem 0;
+}
+.section{
+    padding: 0 4rem;
+}
+.slug{
+    font-weight: bold;
+}
+.info{
+    height: auto;
+    padding: 0 40px;
+    padding-top: 40px;
+}
+.name{
+    font-weight: bold;
+    font-size: 2.5rem;
+    border-bottom: #d87d4a 5px solid;
+    text-decoration-color: #d87d4a;
+    -moz-text-decoration-color: #d87d4a;
+    text-align: center;
+}
+.desc{
+margin-bottom: 2rem;
+padding: 0 40px;
+}
+
+.texts{
+padding-top: 1rem;
+}
+.texts p{
+margin: 0;
+}

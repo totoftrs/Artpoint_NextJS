@@ -1,0 +1,25 @@
+.wrapper{
+    padding: 0 40px;
+  }
+.content{
+    margin: 3rem 0;
+}
+.section{
+    padding: 0 4rem;
+}
+.name, .slug{
+    font-weight: bold;
+}
+.btn{
+    border: none;
+    display: inline-block;
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 1rem 2.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: .5s;
+    background: #d87d4a;
+    color: #fff;
+}
